@@ -53,6 +53,26 @@ isn't available on your hardware, the app says so plainly instead of inventing o
 
 </div>
 
+### Most used languages
+
+<div align="center">
+
+[![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamucxe&theme=github_dark)](https://github.com/Dreamucxe)
+[![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamucxe&theme=github_dark)](https://github.com/Dreamucxe)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+Measured across every public repository, by bytes of source:
+**Kotlin 91.9%** · JavaScript 5.3% · Java 1.6% · HTML 0.6% · CSS 0.4% · Python 0.2% · Shell 0.1%
+
 ---
 
 <div align="center">
