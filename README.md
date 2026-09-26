@@ -31,13 +31,13 @@ isn't available on your hardware, the app says so plainly instead of inventing o
 
 ## Featured projects
 
-| Project | What it is |
-| --- | --- |
-| [**GameCore**](https://github.com/Dreamucxe/GameCore) | Gaming overlay, performance monitor and per-game profile manager. Elevated actions through Shizuku, and every capability that isn't available says so. |
-| [**ProcessLens**](https://github.com/Dreamucxe/ProcessLens) | An Android process observatory — live CPU, memory and process detail, with no fabricated readings. |
-| [**APKStudio**](https://github.com/Dreamucxe/APKStudio) | Offline-first APK inspection, analysis and management. |
-| [**NEXTERM**](https://github.com/Dreamucxe/NEXTERM) | A real terminal emulator for Android — local shell, SSH, and full Linux distributions. |
-| [**StorageVisualizer**](https://github.com/Dreamucxe/StorageVisualizer) | Offline storage analyzer with an interactive treemap and deep folder analysis. |
+| Project | What it is | Latest |
+| --- | --- | --- |
+| [**GameCore**](https://github.com/Dreamucxe/GameCore) | Gaming overlay, performance monitor and per-game profile manager. Elevated actions through Shizuku, and every capability that isn't available says so. | [![release](https://img.shields.io/github/v/release/Dreamucxe/GameCore?style=flat-square&label=&color=2ea44f)](https://github.com/Dreamucxe/GameCore/releases/latest) [![downloads](https://img.shields.io/github/downloads/Dreamucxe/GameCore/total?style=flat-square&label=%E2%86%93&color=blue)](https://github.com/Dreamucxe/GameCore/releases) |
+| [**ProcessLens**](https://github.com/Dreamucxe/ProcessLens) | An Android process observatory — live CPU, memory and process detail, with no fabricated readings. | [![release](https://img.shields.io/github/v/release/Dreamucxe/ProcessLens?style=flat-square&label=&color=2ea44f)](https://github.com/Dreamucxe/ProcessLens/releases/latest) [![downloads](https://img.shields.io/github/downloads/Dreamucxe/ProcessLens/total?style=flat-square&label=%E2%86%93&color=blue)](https://github.com/Dreamucxe/ProcessLens/releases) |
+| [**APKStudio**](https://github.com/Dreamucxe/APKStudio) | Offline-first APK inspection, analysis and management. | [![release](https://img.shields.io/github/v/release/Dreamucxe/APKStudio?style=flat-square&label=&color=2ea44f)](https://github.com/Dreamucxe/APKStudio/releases/latest) [![downloads](https://img.shields.io/github/downloads/Dreamucxe/APKStudio/total?style=flat-square&label=%E2%86%93&color=blue)](https://github.com/Dreamucxe/APKStudio/releases) |
+| [**NEXTERM**](https://github.com/Dreamucxe/NEXTERM) | A real terminal emulator for Android — local shell, SSH, and full Linux distributions. | [![release](https://img.shields.io/github/v/release/Dreamucxe/NEXTERM?style=flat-square&label=&color=2ea44f)](https://github.com/Dreamucxe/NEXTERM/releases/latest) [![downloads](https://img.shields.io/github/downloads/Dreamucxe/NEXTERM/total?style=flat-square&label=%E2%86%93&color=blue)](https://github.com/Dreamucxe/NEXTERM/releases) |
+| [**StorageVisualizer**](https://github.com/Dreamucxe/StorageVisualizer) | Offline storage analyzer with an interactive treemap and deep folder analysis. | [![release](https://img.shields.io/github/v/release/Dreamucxe/StorageVisualizer?style=flat-square&label=&color=2ea44f)](https://github.com/Dreamucxe/StorageVisualizer/releases/latest) [![downloads](https://img.shields.io/github/downloads/Dreamucxe/StorageVisualizer/total?style=flat-square&label=%E2%86%93&color=blue)](https://github.com/Dreamucxe/StorageVisualizer/releases) |
 
 ---
 
