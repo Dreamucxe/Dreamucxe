@@ -1,0 +1,34 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # A user-created classic PAT with scope `repo` (and optionally
+          # read:org). Stored as the repo secret METRICS_TOKEN — the built-in
+          # GITHUB_TOKEN cannot read cross-repo language/traffic stats.
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Dreamucxe
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Etc/UTC
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
